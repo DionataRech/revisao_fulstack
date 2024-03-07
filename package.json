@@ -13,8 +13,7 @@
     "express": "^4.18.3"
   },
   "scripts": {
-    "scriptEx1": "nodemon src/ex1.js",
-    "scriptEx2": "nodemon src/ex2.js"
+    "dev": "nodemon src/index.js"
   },
   "devDependencies": {
     "nodemon": "^3.1.0",
